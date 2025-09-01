@@ -2674,6 +2674,10 @@ input, select, textarea {
 				padding-left: 2em;
 				padding-right: 2em;
 			}
+			.wrapper2 {
+				padding-left: 2em;
+				padding-right: 2em;
+			}
 
 		/* Header */
 
@@ -3051,6 +3055,9 @@ input, select, textarea {
 		/* Wrapper */
 
 			.wrapper {
+				padding: 3em 1em 3em 1em;
+			}
+			.wrapper2 {
 				padding: 3em 1em 3em 1em;
 			}
 
