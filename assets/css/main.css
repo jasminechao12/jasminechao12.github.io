@@ -2167,10 +2167,19 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 		padding: 6em 0 6em 0;
 	}
-
 		.wrapper.style2 {
 			padding-top: 0;
 		}
+
+	.wrapper2 {
+		background: #fff;
+		margin: 2em 0 0 0;
+		padding: 6em 0 6em 0;
+	}
+		.wrapper2.style2 {
+			padding-top: 0;
+		}
+
 
 /* Header */
 
@@ -2459,7 +2468,7 @@ input, select, textarea {
 	#footer {
 		position: relative;
 		overflow: hidden;
-		padding: 6em 0 6em 0;
+		padding: 2em 0 1em 0;
 		background: #2b252c;
 		color: #fff;
 	}
