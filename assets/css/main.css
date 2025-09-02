@@ -2055,7 +2055,7 @@ input, select, textarea {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #317dff;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2077,7 +2077,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #70c6ff;
 		}
 
 		input[type="button"].alt,
@@ -2202,7 +2202,7 @@ input, select, textarea {
 			left: 0;
 			right: 0;
 			bottom: 0;
-			background-color: rgba(255, 255, 255, 0.4);
+			background-color: rgba(255, 255, 255, 0.6);
 			pointer-events: none;
 		}
 
@@ -2277,7 +2277,7 @@ input, select, textarea {
 
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #b0e1ff;
 			display: block;
 			position: absolute;
 			left: 0;
